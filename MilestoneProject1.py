@@ -72,7 +72,7 @@ def clear_console():
     os.system('clear')
     
 #while loop to keep running the game 
-print('Welcome to Suck My Dick!')
+print('Welcome to Tic Tac Toe!')
 while True: 
     #play the game 
     
